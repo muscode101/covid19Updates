@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Covid19Stats</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="view_all_countries">View All Countries</string>
+    <string name="recovered">Recovered </string>
+    <string name="deaths">Deaths</string>
+    <string name="active">Active</string>
+    <string name="cases">  Cases</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="covid19_stats">Covid19 Stats</string>
+    <string name="cases_header">Cases</string>
+    <string name="active_header">Active</string>
+    <string name="recovered_header">Recovered</string>
+    <string name="deaths_header">Deaths</string>
+    <string name="country">Country</string>
+    <string name="loading">Loading...</string>
+    <string name="search">search</string>
+    <string name="title_activity_countries">CountriesActivity</string>
+
+
+    <string name="test_interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_admob_id">ca-app-pub-3871249793473151~4801409818</string>
+    <string name="playstore_address"><![CDATA[https://play.google.com/store/apps/details?id=com.cop.mus.reactiontimer&hl=en]]></string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3871249793473151/7974368062</string>
+    <string name="banner_ads_unit_id">ca-app-pub-3871249793473151/4182177300</string>
+    <string name="about">about</string>
+    <string name="share">"share "</string>
+    <string name="app_version_title">Version</string>
+    <string name="bold_app_name_title"><b>Covid19Stats</b></string>
+    <string name="logo">logo</string>
+    <string name="logo_attribution">logo by https://www.freepik.com/free-photos-vectors/logo</string>
+</resources>
