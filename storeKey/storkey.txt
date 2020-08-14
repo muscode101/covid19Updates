@@ -1,2 +1,0 @@
-alis = covid19Stats
-password = L!ght$p33d
