@@ -30,11 +30,8 @@
     <string name="title_activity_countries">CountriesActivity</string>
 
 
-    <string name="test_interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
-    <string name="app_admob_id">ca-app-pub-3871249793473151~4801409818</string>
+
     <string name="playstore_address"><![CDATA[https://play.google.com/store/apps/details?id=com.cop.mus.reactiontimer&hl=en]]></string>
-    <string name="interstitial_ad_unit_id">ca-app-pub-3871249793473151/7974368062</string>
-    <string name="banner_ads_unit_id">ca-app-pub-3871249793473151/4182177300</string>
     <string name="about">about</string>
     <string name="share">"share "</string>
     <string name="app_version_title">Version</string>
